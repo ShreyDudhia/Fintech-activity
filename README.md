@@ -1,6 +1,6 @@
 # TEST_CODE
 ## A little info about me
-### Table of contents
+### *Table of contents*
 ---
 [CODE](Fintech-activity/code)
 ---
@@ -8,7 +8,7 @@
 ---
 [Images](Fintech-activity/images)
 ---
-[References](Fintech-activity/references)
+[References](Fintech-activity-master/Fintech-activity/references)
 ---
 ---
 ![Fintech](images/FINTECH.jpg)
