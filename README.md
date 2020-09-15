@@ -1,6 +1,6 @@
 # TEST_CODE
 ## A little info about me
-### *Table of contents*
+### **Table of contents**
 ---
 [CODE](Fintech-activity/code)
 ---
